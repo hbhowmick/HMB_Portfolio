@@ -1,0 +1,18 @@
+.col-md-5 {
+  background-color: darkgrey;
+  padding-top: 200px;
+}
+
+.project .announcement {
+  position: relative;
+  left: 30%;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.project p {
+  position: relative;
+  left: 20%;
+  font-size: 20px;
+  font-style: italic;
+}

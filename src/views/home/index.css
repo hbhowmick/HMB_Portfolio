@@ -1,0 +1,7 @@
+.home-background {
+  background-image: url(../../media/images/plant_transparent.png), url(../../media/images/green_filter.png);
+  background-position: left bottom, center top;
+  background-repeat: no-repeat;
+  background-size: 72%, 98% !important;
+  min-height: 1100px;
+}
